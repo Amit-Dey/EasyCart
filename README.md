@@ -9,6 +9,28 @@
 
 # Ecommerce Project using Laravel
 
+## Home Page:
+![1](https://user-images.githubusercontent.com/64111533/219829731-7ac6875b-7742-4c9f-b244-05f2f301d484.png)
+
+## Products:
+![2](https://user-images.githubusercontent.com/64111533/219829735-a783ef1b-af80-4805-8503-954f67f5c0b1.png)
+
+## Product Details:
+![3](https://user-images.githubusercontent.com/64111533/219829736-7087e903-e7e2-4c41-b0b7-21b566d52a12.png)
+
+## User Cart:
+![4](https://user-images.githubusercontent.com/64111533/219829737-fe26f873-81e0-4b30-a124-2bf64a2a78ea.png)
+
+## Admin Product Page:
+![5](https://user-images.githubusercontent.com/64111533/219829738-c17eb516-e20f-4327-ae36-ff9faa46911e.png)
+
+## Admin Add Product Page:
+![7](https://user-images.githubusercontent.com/64111533/219829938-44818739-3840-45a6-8904-f568c1d1e715.png)
+
+## Admin Order Control Page:
+![6](https://user-images.githubusercontent.com/64111533/219829742-8a83b78f-39a9-41ca-976e-8f4b25da31f5.png)
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
